@@ -36,7 +36,7 @@
 
 [生成漂亮图片代码的网站](https://carbon.now.sh/)
 
-![](https://img2020.cnblogs.com/blog/1403732/202007/1403732-20200705201640518-1683976617.png)
+![](./Img/知识星球.png)
 
 
 # 安装
@@ -51,7 +51,7 @@ npm install @babel/core
 
 
 # 节点含义
-![](https://img2020.cnblogs.com/blog/1403732/202007/1403732-20200713201324374-2129914519.png)
+![](./Img/节点含义.png)
 
 # 节点的一些方法
 ## 节点的插入
@@ -79,4 +79,13 @@ path.container.push(nodes);
 
 
 # 节点属性及方法
-![](https://img2020.cnblogs.com/blog/1403732/202008/1403732-20200805223123000-1473139457.png)
+![](./Img/节点属性及方法.png)
+
+# enter(默认)与 exit 的区别
+![](./Img/enter(默认)与%20exit%20的区别.png)
+
+# 节点的一些方法
+## 查看源代码
+```
+path.toString()
+```
